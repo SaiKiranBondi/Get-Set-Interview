@@ -1,4 +1,3 @@
-
 | Topic                         | Sub-Topic / Skill                                                            | Status (☐) |
 | :---------------------------- | :--------------------------------------------------------------------------- | :--------: |
 | **Operating System**          | **Core OS Concepts** (Processes, Scheduling, Sync, Deadlocks, Memory, IPC)   |     D      |
@@ -10,7 +9,7 @@
 |                               | **Remote Access & Automation** (SSH, Paramiko)                               |     ☐      |
 |                               | **Automation Frameworks** (Robot Framework)                                  |     ☐      |
 |                               | **Packet-Level Analysis** (Wireshark)                                        |     ☐      |
-| **Networking Fundamentals**   | **OSI Model** (7 Layers)                                                     |     ☐      |
+| **Networking Fundamentals**   | **OSI Model** (7 Layers)                                                     |     D      |
 |                               | **Core Protocols** (TCP, UDP, ICMP, ARP, DHCP, DNS)                          |     ☐      |
 |                               | **Routing Protocols** (OSPF, EIGRP, BGP)                                     |     ☐      |
 |                               | **Network Security Concepts** (Firewalls, IDS)                               |     ☐      |
