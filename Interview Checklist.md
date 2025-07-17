@@ -17,7 +17,7 @@
 | **Wireless Networking**       | **802.11 Standards** (e.g., 802.11ax)                                        |     ☐      |
 |                               | **Wireless Security** (WLAN protocols, 4-way handshake)                      |     ☐      |
 |                               | **Wireless Troubleshooting** Scenarios                                       |     ☐      |
-| **Ruckus-Specific Knowledge** | **Product Line** (Access Points, Controllers, Software)                      |     ☐      |
+| **XYZ Company-Specific Knowledge** | **Product Line** (Access Points, Controllers, Software)                      |     ☐      |
 |                               | **Proprietary Technology** (BeamFlex, Smart Wi-Fi)                           |     ☐      |
 | **Behavioral Questions**      | Prepare for questions on **Motivation & Goals**                              |     ☐      |
 |                               | Prepare for questions on **Problem-Solving & Teamwork**                      |     ☐      |
