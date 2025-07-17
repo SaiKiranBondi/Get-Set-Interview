@@ -6,7 +6,7 @@ This repository contains notes and resources for preparing for a technical inter
 *   **Programming & Automation:** Proficiency in languages like C/C++/Java and Python, along with scripting and automation tools.
 *   **Networking Fundamentals:** OSI model, core protocols, routing protocols, and network security.
 *   **Wireless Networking:** 802.11 standards, wireless security, and troubleshooting.
-*   **Ruckus-Specific Knowledge:** Familiarity with Ruckus products and technologies.
+*   **XYZ Company-Specific Knowledge:** Familiarity with XYZ Company products and technologies.
 *   **Behavioral Questions:** Preparation for common behavioral interview questions.
 
 The repository is structured into directories for each main topic, containing detailed notes and diagrams.
