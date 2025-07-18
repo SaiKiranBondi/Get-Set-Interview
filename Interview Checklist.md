@@ -22,6 +22,6 @@
 |                                    | Prepare for questions on **Problem-Solving & Teamwork**                      |     ☐      |
 |                                    | Prepare for questions on **Customer Interaction**                            |     ☐      |
 |                                    | Prepare for questions on **Adaptability**                                    |     ☐      |
-| **DBMS**                           | Basic SQL Commands and syntax                                                |     ☐      |
-|                                    | Joins and Normalization                                                      |     ☐      |
-|                                    | Complete SQL and DBMS cookbook                                               |     ☐      |
+| **DBMS**                           | Basic SQL Commands and syntax                                                |     D      |
+|                                    | Joins and Normalization                                                      |     D      |
+|                                    | Complete SQL and DBMS cookbook                                               |     D      |
