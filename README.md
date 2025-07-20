@@ -6,26 +6,73 @@ This repository is a comprehensive resource for preparing for technical intervie
 
 The repository is organized into the following key areas:
 
-*   **Operating Systems:** In-depth coverage of fundamental OS concepts, including processes, threads, CPU scheduling, synchronization, deadlocks, memory management, the kernel, and inter-process communication. It also delves into Linux-specific topics like the file system, core commands, and shell scripting.
-*   **Computer Networks:** A thorough exploration of networking principles, from the OSI and TCP/IP models to the intricacies of the data link, network, transport, and application layers. It also covers wireless networking, security, and troubleshooting.
-*   **DBMS and SQL:** A detailed section covering database fundamentals, core SQL concepts, table joins, data manipulation, database design, and advanced SQL. It includes 25 SQL questions with solutions and 15 common DBMS questions with solutions.
-*   **Python:** A dedicated section for Python, covering fundamentals, intermediate concepts, object-oriented programming (OOP), regular expressions, and automation.
-*   **Data Structures:** A dedicated section on fundamental data structures.
-*   **Algorithms:** A section covering fundamental algorithms essential for technical interviews.
-*   **Interview Checklist:** A comprehensive checklist to track your progress across all essential topics, ensuring you cover all your bases before the interview.
+### 1. Operating Systems
+- Processes and Threads
+- CPU Scheduling
+- Synchronization
+- Deadlocks
+- Memory Management
+- The Kernel and System Calls
+- Inter-Process Communication (IPC)
+
+### 2. Linux OS
+- Linux File System
+- Core Linux Commands
+- Shell Scripting
+- Linux Boot Process
+- Key System Calls
+
+### 3. Computer Networks
+- Introduction to Networks
+- Networking Models
+- Layer-2 (Data Link Layer)
+- Layer-3 (Network Layer)
+- Layer-4 (The Transport Layer)
+- Application Layer & Services
+- Wireless Networking (WLAN)
+- Network Security & Troubleshooting
+
+### 4. DBMS & SQL
+- Database Fundamentals
+- Core SQL Concepts
+- Joining Tables
+- Data Manipulation (DML) & Definition (DDL)
+- Database Design & Normalization
+- Advanced SQL & Optimization
+- 25 SQL Questions & Solutions
+
+### 5. Python
+- Python Fundamentals
+- Intermediate & Interview-Critical Concepts
+- Object-Oriented Programming (OOP) in Python
+- Regular Expressions (Regex)
+- Automation in Python
+
+### 6. Algorithms
+- Foundational Algorithms (Linear/Binary Search, Sorting)
+- Core Techniques (Pointers, Sliding Window, Hashing)
+- Graph Algorithms (DFS, BFS, Shortest Path)
+- Dynamic Programming
+- Advanced Topics (Tries, Segment Trees)
+
+### 7. Data Structures
+- Tier 1: Arrays, Strings, Linked Lists, Stacks, Queues
+- Tier 2: Hash Tables, Trees, Binary Search Trees (BST), Heaps
+- Tier 3: Graphs, Tries, Union-Find, Segment Trees
+
+### 8. C Language
+- C Language Fundamentals
+- Core Concepts (Pointers, Memory Management)
+- Competitive Programming in C
+
+---
+
+- **Interview Checklist:** A comprehensive checklist to track your progress across all essential topics, ensuring you cover all your bases before the interview.
 
 ## Key Features
 
 *   **Structured Learning:** The content is logically organized into modules, making it easy to navigate and study.
 *   **In-depth Explanations:** Each topic is explained in detail, providing a solid theoretical foundation.
-*   **Practical Questions:** Includes a set of 25 curated SQL questions and 15 DBMS questions with solutions to solidify your understanding and prepare you for real-world scenarios.
 *   **Visualizations:** The notes are supplemented with diagrams and visual aids to help you grasp complex concepts more easily.
-
-## Future Updates
-
-This repository is a living document and will be continuously updated with more content, including:
-
-*   **C:** A section for the C programming language, covering its core concepts and its application in competitive programming.
-*   **More advanced topics** in all sections.
 
 We hope this repository helps you in your interview preparation journey!
