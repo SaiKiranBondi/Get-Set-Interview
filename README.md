@@ -10,6 +10,7 @@ The repository is organized into the following key areas:
 *   **Computer Networks:** A thorough exploration of networking principles, from the OSI and TCP/IP models to the intricacies of the data link, network, transport, and application layers. It also covers wireless networking, security, and troubleshooting.
 *   **DBMS and SQL:** A detailed section covering database fundamentals, core SQL concepts, table joins, data manipulation, database design, and advanced SQL. It includes 25 SQL questions with solutions and 15 common DBMS questions with solutions.
 *   **Python:** A dedicated section for Python, covering fundamentals, intermediate concepts, object-oriented programming (OOP), regular expressions, and automation.
+*   **Algorithms:** A section covering fundamental algorithms essential for technical interviews.
 *   **Interview Checklist:** A comprehensive checklist to track your progress across all essential topics, ensuring you cover all your bases before the interview.
 
 ## Key Features
@@ -23,7 +24,8 @@ The repository is organized into the following key areas:
 
 This repository is a living document and will be continuously updated with more content, including:
 
-*   **Programming & Automation:** Modules on C/C++, Java, and scripting languages.
+*   **Data Structures:** A dedicated section on fundamental data structures.
+*   **C:** A section for the C programming language, covering its core concepts and its application in competitive programming.
 *   **More advanced topics** in all sections.
 
 We hope this repository helps you in your interview preparation journey!
