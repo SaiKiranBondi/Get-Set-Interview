@@ -4,7 +4,7 @@
 |                                    | **Linux OS Fundamentals** (Kernel, System Calls, File System, Commands)      |     D      |
 |                                    | **Linux Specifics** (Boot Process, Shell Scripting, Zombie/Orphan Processes) |     D      |
 | **Programming & Automation**       | **Language Proficiency** (C/C++/Java)                                        |     ☐      |
-|                                    | **Python** (Lists, Dictionaries, OOPs Concepts)                              |     ☐      |
+|                                    | **Python** (Lists, Dictionaries, OOPs Concepts)                              |     D      |
 |                                    | **Other Scripting** (TCL/Expect, Perl)                                       |     ☐      |
 |                                    | **Remote Access & Automation** (SSH, Paramiko)                               |     ☐      |
 |                                    | **Automation Frameworks** (Robot Framework)                                  |     ☐      |
@@ -25,3 +25,7 @@
 | **DBMS**                           | Basic SQL Commands and syntax                                                |     D      |
 |                                    | Joins and Normalization                                                      |     D      |
 |                                    | Complete SQL and DBMS cookbook                                               |     D      |
+| **Algorithms**                     | Fundamental Algorithms                                                       |     D      |
+| **Data Structures**                | Core Data Structures                                                         |     ☐      |
+| **C Programming**                  | Core C Concepts                                                              |     ☐      |
+|                                    | C for Competitive Programming                                                |     ☐      |
