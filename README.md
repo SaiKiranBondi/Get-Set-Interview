@@ -65,6 +65,12 @@ The repository is organized into the following key areas:
 - Core Concepts (Pointers, Memory Management)
 - Competitive Programming in C
 
+### 9. Backend Concepts
+- General Backend & Web Concepts
+- Django Framework
+- Servers, Clients & The Internet of Things (IoT)
+- Cloud Computing with AWS
+
 ---
 
 - **Interview Checklist:** A comprehensive checklist to track your progress across all essential topics, ensuring you cover all your bases before the interview.
